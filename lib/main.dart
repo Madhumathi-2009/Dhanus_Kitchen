@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'core/ui/pages/home_page.dart';
 
 void main() {
@@ -12,17 +13,17 @@ class DhanuBudgetMenuApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+
       title: "Dhanu's Budjet Menu",
 
       theme: ThemeData(
         useMaterial3: true,
-        scaffoldBackgroundColor: const Color(0xFFF8F7F4),
 
         colorScheme: ColorScheme.fromSeed(
           seedColor: const Color(0xFFE76F51),
         ),
 
-        fontFamily: 'Roboto',
+        scaffoldBackgroundColor: const Color(0xFFF8F7F4),
       ),
 
       home: const HomePage(),
