@@ -2,11 +2,13 @@
 
 A digital menu and customer engagement application for our food stall.
 
-The main purpose of this app is to help customers easily view the **daily menu**, available **combos**, **special offers**, and contact us for **bulk orders**. The app will initially focus on displaying the menu and building a digital connection with our existing customers.
+The main purpose of this app is to help customers easily view the **daily menu**, available **combos**, **special offers**, communicate with the shop through an **inbuilt chat box**, and provide **feedback**.
+
+The app will initially focus on displaying the menu and building a digital connection with our existing customers.
 
 ## 🎯 Project Goal
 
-Currently, many customers call the shop to ask:
+Currently, many customers contact the shop to ask:
 
 > "What is today's menu?"
 
@@ -32,18 +34,17 @@ Display available food combinations and combo offers.
 
 Show special offers and promotions.
 
-### 📦 Bulk Orders
+### 💬 Inbuilt Chat Box
 
-Customers can contact us for:
+Customers can communicate directly with the shop through an inbuilt chat box.
 
-* Functions
-* Parties
-* Events
-* Large food orders
+The chat box can be used for:
 
-### 💬 Customer Contact
-
-Provide an easy way for customers to contact the shop for enquiries.
+* Bulk order enquiries
+* Functions and party orders
+* Special customer requirements
+* Food-related enquiries
+* General communication with the shop
 
 ### ⭐ Feedback
 
@@ -71,7 +72,6 @@ Planned features for future versions:
 * Push notifications
 * Daily menu notifications
 * Admin dashboard
-* WhatsApp integration
 
 ## 🛠️ Project Development
 
@@ -84,7 +84,7 @@ This project is being developed collaboratively using GitHub.
 3. Develop and test the feature.
 4. Create a Pull Request.
 5. Review the changes.
-6. Merge the feature into the main branch.
+6. Merge the changes into the main branch.
 
 ### Example Branches
 
@@ -94,6 +94,7 @@ feature/home-screen
 feature/daily-menu
 feature/combos
 feature/offers
+feature/chat
 feature/feedback
 ```
 
@@ -104,7 +105,7 @@ The first version will focus on:
 * Today's Menu
 * Combos
 * Offers
-* Bulk Order Contact
+* Inbuilt Chat Box
 * Customer Feedback
 
 The main priority is to create a **simple, attractive, and easy-to-use app** for existing customers.
@@ -113,7 +114,6 @@ The main priority is to create a **simple, attractive, and easy-to-use app** for
 
 The initial customer base will be reached through:
 
-* WhatsApp contacts
 * Existing regular customers
 * Social media
 * Instagram
