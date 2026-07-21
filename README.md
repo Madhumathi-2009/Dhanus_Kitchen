@@ -32,12 +32,6 @@ Display available food combinations and combo offers.
 
 Show special offers and promotions.
 
-Example:
-
-* Buy 2 rice meals and get a fish item free
-* Special gravy offers
-* Limited-time promotions
-
 ### 📦 Bulk Orders
 
 Customers can contact us for:
