@@ -29,6 +29,8 @@ Customers can open the app and immediately view the food available for the day.
 ### 🍱 Combos
 
 Display available food combinations and combo offers.
+Example 
+White Rice + Fish Gravy
 
 ### 🎁 Offers
 
