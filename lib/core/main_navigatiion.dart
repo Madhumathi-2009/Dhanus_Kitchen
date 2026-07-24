@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-//import '../UI/page/chat_page.dart';
+import '../UI/page/chat_page.dart';
 import '../UI/page/home_page.dart';
-//import '../UI/page/menu_page.dart';
+import '../UI/page/menu_page.dart';
 import '../UI/page/profile_page.dart';
 
 class MainNavigationPage extends StatefulWidget {
@@ -17,8 +17,8 @@ class _MainNavigationPageState extends State<MainNavigationPage> {
 
   final List<Widget> pages = const [
     HomePage(),
-    //MenuPage(),
-    //ChatPage(),
+    MenuPage(),
+    ChatPage(),
     ProfilePage(),
   ];
 
